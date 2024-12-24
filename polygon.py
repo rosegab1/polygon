@@ -1,9 +1,3 @@
-#Gabriela Feliciano
-#U60146452
-'''The purpose of this program is to output the area and perimeter
-of a polygon depending on the number of sides and length of the sides
-inputted by the user'''
-
 import math
 
 class Polygon:
